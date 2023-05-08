@@ -13,8 +13,10 @@ mkdir eServer
 cd eServer
 
 npm init
-
 npm install --save express
+npm install --save cores
+npm install --save body-parser
+npm install --save mongodb
 
 touch eServer.js
 
