@@ -14,7 +14,7 @@ cd eServer
 
 npm init
 npm install --save express
-npm install --save cores
+npm install --save cors
 npm install --save body-parser
 npm install --save mongodb
 
